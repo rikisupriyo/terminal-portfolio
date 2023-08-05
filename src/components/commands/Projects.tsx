@@ -72,12 +72,6 @@ const projects = [
     desc: "..............................................",
     url: "#",
   },
-  // {
-  //   id: 4,
-  //   title: "AstroPaper Blog Theme",
-  //   desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-  //   url: "https://astro-paper.pages.dev/",
-  // },
 ];
 
 export default Projects;

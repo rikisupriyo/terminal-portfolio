@@ -24,10 +24,6 @@ const eduBg = [
     title: "Computer Science Engineering, B.Tech",
     desc: "Academy of Technology | 2020 ~ 2025",
   },
-  // {
-  //   title: "IELTS 6.5",
-  //   desc: "British Council Myanmar | 2017",
-  // },
 ];
 
 export default Education;
